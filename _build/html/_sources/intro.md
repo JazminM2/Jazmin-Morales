@@ -1,11 +1,22 @@
 # Welcome to your Jupyter Book
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+# Jazmin Morales 
+## Portfolio
 
-Check out the content pages bundled with this sample book to see more.
+* Mi enfoque principal es resolver problemas complejos mediante datos y presentar soluciones claras y visualmente atractivas. Aquí encontrarás ejemplos de análisis exploratorio, modelado predictivo, y visualización de datos aplicados a distintas áreas, como:
+
+    - Análisis exploratorio de datos (EDA): Descubriendo patrones y tendencias clave en datasets diversos.
+    - Modelos predictivos: Aplicando técnicas de machine learning para predecir comportamientos y resultados.
+    - Limpieza y preparación de datos: Transformando datasets ruidosos o incompletos en información útil.
+    - Visualización interactiva: Creando gráficos y dashboards que cuentan historias significativas.
+
+
+
+*
+
+Si te interesa colaborar, explorar mis proyectos o simplemente darme retroalimentación, no dudes en contactarme. 
+
+**Correo electrónico:** morales.m.jazmin@gmail.com  
 
 ```{tableofcontents}
 ```
